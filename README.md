@@ -1,1 +1,5 @@
-# study-sol
+## study-sol
+
+```
+npx hardhat
+```
